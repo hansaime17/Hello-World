@@ -13,7 +13,7 @@
 <p>armel and the enzo are the tutors</p>
 <p>les gens commencent a voir la base de devops</p>
 <p>la programmation est facile mais il faut etudier</p>
-<p>mes amis voila une infrastructure complete que nous venons de devloper </p>
+<h1>mes amis voila une infrastructure complete que nous venons de devloper </h1>
 <p>bonsoir a tous </p>
 </body>
 </html>
