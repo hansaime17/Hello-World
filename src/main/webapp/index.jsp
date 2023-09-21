@@ -14,6 +14,7 @@
 <p>les gens commencent a voir la base de devops</p>
 <p>la programmation est facile mais il faut etudier</p>
 <h1>mes amis voila une infrastructure complete que nous venons de devloper </h1>
+<h1>payez vos 35 Euros je controlle la semaine prochaine. Je vai aussi controller les antecedants</h1>
 <p>bonsoir a tous </p>
 </body>
 </html>
